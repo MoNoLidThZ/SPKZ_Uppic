@@ -1,4 +1,4 @@
-The MIT License (MIT)
+SinglePlayerZ's Image Hosting Service is licensed under MIT.
 
 Copyright (c) 2015 MoNoLidThZ (Nut Inta)
 
